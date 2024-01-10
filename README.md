@@ -125,6 +125,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
+  - {name: 'calender', link: '/http://pga.iust.ac.ir/page.php?slct_pg_id=8060&sid=52&slc_lang=fa'}
 ```
 
 `name` is the text that will be shown and link, well, it's a link.
